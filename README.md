@@ -15,7 +15,7 @@ Key motivating factors included:
 
 ---
 
-## **What I Learned**
+## **What We Learned**
 Throughout the development of this project, I gained valuable insights and experience in several key areas:
 
 1. **Blockchain Development**
@@ -107,6 +107,4 @@ Building the Ethereum-based microloan platform has been an incredibly enriching 
 
 ---
 
-## **Links**
-- [GitHub Repository](#) (To be added)
-- [Live Demo](#) (To be added)
+
