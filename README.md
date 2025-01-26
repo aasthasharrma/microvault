@@ -38,7 +38,7 @@ Throughout the development of this project, I gained valuable insights and exper
 
 ---
 
-## **How I Built the Project**
+## **How We Built the Project**
 The project was developed in a structured manner with various key components:
 
 ### **1. Technology Stack**
