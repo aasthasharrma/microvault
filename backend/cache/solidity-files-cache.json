@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/aasthasharma/Documents/microvault/backend/contracts/p2pSmartContract.sol": {
+      "lastModificationDate": 1733282275107,
+      "contentHash": "14df2975cf0eb0755d38a9d7aab63676",
+      "sourceName": "contracts/p2pSmartContract.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "p2pSmartContract"
+      ]
+    }
+  }
+}
